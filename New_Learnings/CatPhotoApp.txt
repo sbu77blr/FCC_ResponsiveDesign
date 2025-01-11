@@ -1,0 +1,14 @@
+
+* <figure>
+    <img ... >
+    <figcaption> ... </figcaption>
+  </figure>
+
+* <label>
+    <input ... id="" .. >
+  </label>
+
+* <fieldset>
+    <legend> ... </legend>
+    ..... <!-- Various inputs fields --> 
+  </fieldset>
