@@ -1,0 +1,8 @@
+
+* Horizontal centering : margin-left, margin-right: auto;
+
+* Styling the 'p' elements as 'inline-block' and placing them on separate lines in the code creates an extra space to the right of the first 'p' element, causing the second one to shift to the next line. White space characters can cause this issue as well.
+
+* Make sure there is no space between the two elements. => will make both the p.flavor and p.price to be on the same line in the frontend.
+
+* Negative Margin : pulls the element in the opposite direction.
