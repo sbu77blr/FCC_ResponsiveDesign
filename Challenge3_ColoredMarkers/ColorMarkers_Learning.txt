@@ -1,0 +1,19 @@
+
+* rgb, hexcode, hsl.
+
+.red {
+  background: linear-gradient(90deg, rgb(255, 0, 0) %, rgb(0, 255, 0), rgb(0, 0, 255));
+}
+
+* gradientDirection. : default-180deg (top to bottom)
+* percentage - used to fine tune where the colors are placed along a gradient line. => 'color stops' : distribution of the colors on a line.
+
+* box-shadow: offsetX offsetY <blurRadius> <spreadRadius> color;
+    - offsetX, offsetY : specified in CSS units.
+    - +ve value : X->right, Y->down.
+    - -ve value : X->left, Y->up.
+
+    - blurRadius : optional parameter => blurring effect to the edges.
+    - spreadRadius : optional parameter => as it sounds.
+
+* border-style: double;
